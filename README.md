@@ -6,7 +6,7 @@
 
 Mạch Mtiny Power được nghiên cứu và và sản xuất bởi MakerLab.vn sử dụng để cấp nguồn cho các mạch trong Series Mtiny sau khi đã nạp chương trình (không cần đến mạch nạp), mạch có khả năng cung cấp nguồn tối đa 5VDC/1500mA và 3.3VDC/700mA với đầu vào USB-C hoặc Domino phổ dụng, hỗ trợ cấp nguồn bằng Pin Dự Phòng (Support USB Power Bank).
 
-        Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi điều khiển với thiết kế nhỏ gọn sử dụng chuẩn chân cắm DIP 2.54mm, các mạch Mtiny cùng sử dụng chung mạch nạp chương trình và giao tiếp máy tính Mtiny Programmer với chuẩn nạp Mtiny Socket.
+> Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi điều khiển với thiết kế nhỏ gọn sử dụng chuẩn chân cắm DIP 2.54mm, các mạch Mtiny cùng sử dụng chung mạch nạp chương trình và giao tiếp máy tính Mtiny Programmer với chuẩn nạp Mtiny Socket.
 
 Các mạch Mtiny hỗ trợ cấp nguồn bằng mạch Mtiny Power:
 
