@@ -74,4 +74,4 @@ Connect Mtiny ESP32 WROOM-32E with Mtiny Power Module
 
 Có thể mua Mạch Mtiny Power tại các nhà phân phối sau:
 
-- [Hshop.vn - Điện tử & Robot.](hshop.vn)
+- [Hshop.vn - Điện tử & Robot.](https://hshop.vn)
