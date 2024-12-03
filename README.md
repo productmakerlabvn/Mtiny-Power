@@ -10,12 +10,11 @@ Mạch Mtiny Power được nghiên cứu và và sản xuất bởi MakerLab.vn
 
 Các mạch Mtiny hỗ trợ cấp nguồn bằng mạch Mtiny Power:
 
-- Mạch Mtiny Uno ATmega328P (Arduino Compatible)  
-- Mạch Mtiny ESP8266 ESP-07S (Arduino Compatible)
-- Mạch Mtiny ESP8266 ESP-12S (Arduino Compatible)
-- Mạch Mtiny ESP32 WROOM-32E (Arduino Compatible)
-- Mạch Mtiny ESP32 WROOM-32UE (Arduino Compatible)
-- Mạch Mtiny ESP32 WROVER-IE (Arduino Compatible)
+- [Mạch Mtiny Uno ATmega328P (Arduino Compatible)   ](https://makerlab.vn/mtuno) 
+- [Mạch Mtiny ESP8266 ESP-07S (Arduino Compatible)  ](https://makerlab.vn/mtesp07s)
+- [Mạch Mtiny ESP8266 ESP-12S (Arduino Compatible)  ](https://makerlab.vn/mtesp12s)
+- [Mạch Mtiny ESP32 WROOM-32E (Arduino Compatible)  ](https://makerlab.vn/mtwroom32)
+- [Mạch Mtiny ESP32 WROVER-IE (Arduino Compatible)  ](https://makerlab.vn/mtwrover32)
 
 ## Thông số kỹ thuật
 
@@ -35,7 +34,7 @@ Các mạch Mtiny hỗ trợ cấp nguồn bằng mạch Mtiny Power:
   </tr>
   <tr>
     <td>Compatible</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/Template:Mtiny">Mtiny Series</a></td>
+    <td>Mtiny Series</td>
   </tr>
 </tbody>
 </table>
@@ -50,15 +49,20 @@ Các mạch Mtiny hỗ trợ cấp nguồn bằng mạch Mtiny Power:
 
 ## Hướng dẫn sử dụng
 
-Trong các trường hợp các mạch Mtiny đã nạp chương trình (không cần sử dụng đến mạch nạp Mtiny Programmer), muốn cấp nguồn riêng cho mạch Mtiny và các mạch khác trong hệ thống, các bạn có thể sử dụng mạch Mtiny Power kết nối với các chân 3V3-5V-GND trên Mtiny Socket như sau:
+Trong các trường hợp các mạch Mtiny đã nạp chương trình (không cần sử dụng đến mạch nạp Mtiny Programmer), muốn cấp nguồn riêng cho mạch Mtiny và các mạch khác trong hệ thống, các bạn có thể sử dụng mạch **Mtiny Power** kết nối với các chân **3V3-5V-GND trên Mtiny Socket** như sau:
 
-Power Input USB-C: 5VDC (Support USB Power Bank)
-Domino (VIN): 6~24VDC
-
-Power Output 5VDC - Max 500mA (USB-C Input)
-5VDC - Max 1500mA (Domino Input)
-
-3.3VDC - Max 700mA
+<table><thead>
+  <tr>
+    <td>Power Input</td>
+    <td>USB-C: 5VDC (Support USB Power Bank)<br>Domino (VIN): 6~24VDC</td>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Power Output</td>
+    <td>5VDC - Max 500mA (USB-C Input)<br>5VDC - Max 1500mA (Domino Input)<br>3.3VDC - Max 700mA</td>
+  </tr>
+</tbody>
+</table>
 
 ![](/image/mtinyP_04.jpg)
 
